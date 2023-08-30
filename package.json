@@ -30,7 +30,7 @@
     "grindery-nexus-client": "1.0.1",
     "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^3.1.2",
-    "mongodb": "^5.1.0",
+    "mongodb": "^5.8.0",
     "mongodb-memory-server": "^8.12.2",
     "node-webhooks": "^1.4.2",
     "puppeteer": "^19.9.0",
